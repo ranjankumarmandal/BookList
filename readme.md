@@ -1,0 +1,1 @@
+About - This is a dynamic website can be used for the purpose listing books or any other records in your local system. Technology used are: HTML5, CSS3, Skeleton CSS framework, JavaScript, DOM Manipulation, Local Storage with JS, OOPs with JS.
